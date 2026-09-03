@@ -8,7 +8,7 @@
 
 This project explores sales data using **SQL Server** to uncover meaningful insights into sales performance, customer behavior, and product trends.
 
-The goal of the analysis is to transform raw data into actionable insights that can support better business decisions.
+The goal of the analysis is to transform raw data into actionable insights that can support decision-making in business.
 
 ---
 
